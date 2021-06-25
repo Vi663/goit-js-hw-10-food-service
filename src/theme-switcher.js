@@ -26,4 +26,3 @@ if (savedTheme) {
     radiobox.checked = true;
   }
 };
-console.log(savedTheme);
